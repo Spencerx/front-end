@@ -35,6 +35,10 @@ It is also the shared front end for Neo4j and Morpheus.
 A common feature for database systems is to allow backwards compatability for older releases of the software. This makes it possible to move over systems query by query to an updated version of the database.
 The names allow for two or more versions of compiler pipelines loaded at the same time. It makes it possible for us to release updated, binary incompatible versions of the front ends.
 
+== Disclaimer
+
+This repository is not an official Neo4j product or project. It is maintained by Neo4j employees or contributors in a personal or experimental capacity. The content here is provided “as is,” comes with no guarantees, and is unsupported.
+
 == License
 
 The `openCypher` project is licensed under the http://www.apache.org/licenses/LICENSE-2.0[Apache license 2.0].
